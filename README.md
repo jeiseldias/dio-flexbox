@@ -1,4 +1,4 @@
-# Bootcamp - Impulso Javascript Evolution (DIO)
+# Posicionando elementos com Flexbox em CSS
 
 Repositório para acompanhamento do conteúdo do curso de **Posicionando elementos com Flexbox em CSS** do **Módulo II** do Bootcamp **Impulso Javascript Evolution** da **Digital Innovation One**
 
