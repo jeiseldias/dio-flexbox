@@ -22,4 +22,4 @@ O bootcamp Impulso JavaScript Evolution é um programa de recrutamento de devs d
 * [Live Demo - Flex Shrink](https://dio-flexbox.jeisel.dev/9-flex-shrink.html)
 * [Live Demo - Flex](https://dio-flexbox.jeisel.dev/10-flex.html)
 * [Live Demo - Order](https://dio-flexbox.jeisel.dev/11-order.html)
-* [Live Demo - Align Self](https://dio-flexbox.jeisel.dev/12-align-self.html12-align-self.html)
+* [Live Demo - Align Self](https://dio-flexbox.jeisel.dev/12-align-self.html)
